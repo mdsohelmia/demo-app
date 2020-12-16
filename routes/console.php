@@ -15,13 +15,5 @@ use Illuminate\Support\Facades\Artisan;
 */
 
 Artisan::command('inspire', function () {
-//    copy(__DIR__ . '/../stubs/Example.php', base_path('example.php'));
-//    $environment = file_get_contents(base_path('.env'));
-//    $environment = str_replace('DB_HOST=127.0.0.1', 'DB_HOST=mysql', $environment);
-//    file_put_contents(base_path('.env'), $environment);
-
-    Artisan::call('migrate');
-    dd(Artisan::output());
-
-
+    $this->comment('Hello');
 })->purpose('Display an inspiring quote');

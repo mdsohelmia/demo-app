@@ -15,7 +15,12 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    Artisan::call('migrate');
-    dd(Artisan::output());
-    return view('welcome');
-});
+    return view('home');
+})->name('home');
+Route::get('job-post', function () {
+    return view('post_job');
+})->name('new.job');
+Route::get('job-want', function () {
+    return view('job_browse');
+})->name('job.want');
+

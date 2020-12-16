@@ -1,15 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc8f26b6-66e9-42ad-9058-146b388135d7" name="Default Changelist" comment="" />
+    <list default="true" id="bc8f26b6-66e9-42ad-9058-146b388135d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/aos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/jquery.timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/open-iconic-bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/owl.video.play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/flaticon/font/Flaticond41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoonccfb.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoonccfb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoonccfb.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/icomoon/icomoonccfb.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons580c.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons580c.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons580c.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons580c.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/ionicons/fonts/ionicons580c.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/open-iconic/open-iconic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/open-iconic/open-iconic.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/open-iconic/open-iconic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/open-iconic/open-iconic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/open-iconic/open-iconic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/open-iconic/open-iconicd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bg_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/company-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/company-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/company-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/company-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/image_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/image_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/image_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/person_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/person_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/person_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/person_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/person_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/person_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/aos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/google-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery-migrate-3.0.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.animateNumber.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.easing.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.stellar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/scrollax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/job_browse.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/__header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/partials/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/post_job.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/appInertia.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/appInertia.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Console/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/console.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/console.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -118,9 +205,13 @@
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
       <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/spatie/temporary-directory" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-short-schedule" />
+      <path value="$PROJECT_DIR$/vendor/react/event-loop" />
     </include_path>
   </component>
   <component name="ProjectId" id="1lJYbeYG5DB6UsLNt2XqYiJDqx8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -129,8 +220,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\appInertia\public" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -147,10 +250,25 @@
       <option name="presentableId" value="Default" />
       <updated>1607316733904</updated>
       <workItem from="1607316735295" duration="1112000" />
+      <workItem from="1607325907132" duration="10132000" />
+      <workItem from="1608049563496" duration="2689000" />
+      <workItem from="1608136553818" duration="2401000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
